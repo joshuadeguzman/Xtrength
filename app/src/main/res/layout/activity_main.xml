@@ -5,7 +5,15 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
+    android:padding="20dp"
     tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/tv_password_info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/opensans"
+        android:textSize="15sp" />
 
     <io.jmdg.xtrength.XtrengthInputView
         android:id="@+id/xiv_password"

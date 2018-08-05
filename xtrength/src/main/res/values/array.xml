@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="complexityColors">
+        <item>@color/veryWeak</item>
+        <item>@color/weak</item>
+        <item>@color/notBad</item>
+        <item>@color/strong</item>
+        <item>@color/veryStrong</item>
+    </array>
+</resources>

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">XtrengthApp</string>
+    <string name="xtrength_info" formatted="true">Xtrength Scores\n(Exclusive of deductions)\n\nScore: %1$d\nCharacters: %2$d\nCapitalization: %3$d\nNumbers: %4$d\nSpecial Characters: %5$d\nMiddle Numbers and Symbols: %6$d\nRequirements: %7$d</string>
 </resources>

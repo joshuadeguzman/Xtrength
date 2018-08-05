@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="midnightBlue">#2c3e50</color>
+    <color name="wetAsphalt">#34495e</color>
+
+    <color name="veryWeak">#e74c3c</color>
+    <color name="weak">#e67e22</color>
+    <color name="notBad">#3498db</color>
+    <color name="strong">#1abc9c</color>
+    <color name="veryStrong">#2ecc71</color>
+</resources>
